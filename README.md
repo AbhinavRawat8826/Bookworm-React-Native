@@ -11,10 +11,9 @@ Bookworm is a full-stack React Native mobile app that allows users to share and 
 - Connected to a **Node.js + Express** backend.
 - **MongoDB** is used to store user and book data.
 
-##SignUp
+
 ![Image](https://github.com/user-attachments/assets/e23fb833-0eb0-4f83-a173-a608e309e163)
 
-##Login
 
 ![Image](https://github.com/user-attachments/assets/e8f230f9-b6d7-4dfc-9acf-944aab556723)
 
